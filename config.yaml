@@ -84,17 +84,17 @@ params:
         subtitle: Quick Biography
         title: About Me
         url: blogs/aliquam
-      - image: pic2.jpg
-        subtitle: My Resumé
-        title: CV
+      - image: pic02.jpg
+        subtitle: Projects done for British Airways, LBS 
+        title: Past Analytical Projects
         url: blogs/tempus
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
         url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+      - image: pic2.jpg
+        subtitle: My Resumé
+        title: CV
         url: blogs/ipsum
       - image: pic05.jpg
         subtitle: Project done as part of the London Business School Applied Statistics Course 
