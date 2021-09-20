@@ -1,4 +1,4 @@
-baseURL : https://emmaflutsch.netlify.app/
+baseURL: https://emmaflutsch.netlify.app/
 languageCode: en-us
 title: Portofolio Website for Emma FLutsch
 theme: forty
@@ -80,7 +80,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: pic1.jpg
         subtitle: Quick Biography
         title: About Me
         url: blogs/aliquam
