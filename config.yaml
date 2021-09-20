@@ -1,4 +1,4 @@
-baseURL = https://emmaflutsch.netlify.app/
+baseURL : https://emmaflutsch.netlify.app/
 languageCode: en-us
 title: Portofolio Website for Emma FLutsch
 theme: forty
