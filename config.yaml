@@ -6,7 +6,7 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: FIND OUT MORE
+    buttonText: Explore
     subtitle: |-
       Welcome to my portofolio website, where you can learn more about me and my past projects.
     title: Emma Flutsch's Portofolio 
@@ -80,25 +80,25 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic1.jpg
-        subtitle: Biography
-        title: Find out more
+      - image: pic1.JPG
+        subtitle: Find out more
+        title: Biography
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Projects done for British Airways
         title: Past Work Related Analytical Projects
         url: blogs/tempus
-      - image: pic03.jpg
+      - image: gdp.jpg
         subtitle: Visualising and discussing data
         title: Analysing GDP's split in R
         url: blogs/magna
       - image: pic2.jpg
         subtitle: My Resumé
         title: CV
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Project done as part of the London Business School Applied Statistics Course 
-        title: Project 1
+        url: blogs/blog3
+      - image: ratings.jpg
+        subtitle: Are ratings a good predictor of gross earnings?  
+        title: Relationship between Movie Ratings and Profit
         url: blogs/ipsum
        # - image: pic06.jpg
        #   subtitle: Feugiat Amet Tempus

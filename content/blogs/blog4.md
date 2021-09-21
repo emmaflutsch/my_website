@@ -3,13 +3,15 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:42:51-05:00"
-description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
-  sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
-  sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-  consequat tincidunt. Vivamus et sagittis tempus.
+description:  A French master student in Analytics and Management at London Business School, I am interested in pursuing a career in analytics within an online retailer.
 draft: false
-image: pic07.jpg
+image: pic2.jpg
 keywords: ""
 slug: aliquam
-title: Aliquam
+title: Introduction
 ---
+
+Originally from Paris, I moved to the United Kingdom at 18 to pursue an undergraduate degree in Management at Warwick University. There, I got involved within a student society - Line - whose aim is to raise funds for UNICEF whilst hosting events about fashion and art. I became President of the Society and managed a team of 30 people. 
+As part of my degree, I also undertook a placement year during which I interned within the luxury e-commerce industry, more specifically at Monnier Freres and Gisele Delorme. There, I familiarised myself with the industry and particularly enjoyed the challenges and possiblities that came with its face-paced environment. 
+After graduating from Warwick Business School, I worked as a Data Analyst for British Airways as part of their graduate program; having no previous background in analytics, I received extensive training and worked on exciting projects, which you can find out more about in the next section of the website. 
+Wanting to consolidate my analytical skills and bridge the gap between analytics and business acumen, I joined London Business School's Master in Analytics. 
