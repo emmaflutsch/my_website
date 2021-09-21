@@ -84,10 +84,10 @@ params:
         subtitle: Find out more
         title: Biography
         url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Projects done for British Airways
-        title: Past Work Related Analytical Projects
-        url: blogs/tempus
+      - image: pic3.jpg
+        subtitle: Homework produced as part of LBS's Applied Statistics Course
+        title: R Markdown analysis
+        url: blogs/Homework2.html
       - image: gdp.jpg
         subtitle: Visualising and discussing data
         title: Analysing GDP's split in R
@@ -100,13 +100,13 @@ params:
         subtitle: Are ratings a good predictor of gross earnings?  
         title: Relationship between Movie Ratings and Profit
         url: blogs/ipsum
-       # - image: pic06.jpg
-       #   subtitle: Feugiat Amet Tempus
-       #   title: Etiam
-       #   url: blogs/ipsum
+        - image: pic06.jpg
+          subtitle: Feugiat Amet Tempus
+          title: Etiam
+          url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
     subtitle: Find out more about me and my past projects.
-    title: Articles
+    title: More 
     url: blogs
