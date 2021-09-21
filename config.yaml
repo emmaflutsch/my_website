@@ -99,7 +99,7 @@ params:
       - image: ratings.jpg
         subtitle: Are ratings a good predictor of gross earnings?  
         title: Relationship between Movie Ratings and Profit
-        # url: blogs/ipsum
+        url: blogs/ipsum
         # - image: pic06.jpg
         #   subtitle: Feugiat Amet Tempus
         #   title: Etiam
